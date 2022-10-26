@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="wtinput">Enter_your_Weight</string>
+    <string name="htIn">height in inches</string>
+    <string name="htFt">Height in foot</string>
+
+</resources>
